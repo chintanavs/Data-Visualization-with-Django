@@ -5,7 +5,7 @@ Flexmonster is used for Charts and Ajax is used to send data from database to Fl
 To run this project: 
 1. Goto file directory and open the terminal
 2. Type: python3 manage.py runserver
-3. Open browser and type localhost:8000/dashboard
+3. Open the browser and type localhost:8000/dashboard
 
 Here are some images of the visualizations:
 
