@@ -1,6 +1,6 @@
 # Data-Visualization-with-Django
 
-Flexmonster is used for Charts and Ajax is used to send data from database to Flexmoster
+Developed using Flexmonster for displaying Charts and Ajax which is used to send data from database to Flexmonster.
 
 To run this project: 
 1. Goto file directory and open the terminal
